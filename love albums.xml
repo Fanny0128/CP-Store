@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="the thing.css" type="text/css" ?>
+
+<albums>
+<heading>我為歌狂</heading>
+
+<album>
+<title>Fantome</title>
+<writer>宇多田光</writer>
+<publisher>Unknow</publisher>
+</album>
+
+<album>
+<title>醉</title>
+<writer>常石磊</writer>
+<publisher>種子音樂股份有限公司</publisher>
+</album>
+</albums>

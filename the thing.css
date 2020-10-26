@@ -1,0 +1,13 @@
+albums{color:white;background-color:black;width:100%;}
+
+heading{color:white;font-size:30px;}
+
+title{color:Coral;}
+
+writer{color:LightSeaGreen;}
+
+publisher{color:Tan;}
+
+heading,title,writer,publisher{display:block;}
+
+title{font-size:25px;font-weight:bold;}
